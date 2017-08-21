@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ccd501ec43da9ca47925cd05148b2639
+timeCreated: 1501699087
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - torrePrefab: {fileID: 1662789101572438, guid: cdccc55d29d505443ad592e4551ecf27,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
